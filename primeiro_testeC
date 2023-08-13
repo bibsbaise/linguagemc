@@ -1,0 +1,13 @@
+/* Primeiro Arquivo em C no GitHub */
+
+#include <stdio.h>
+
+int main() { 
+  printf("Mackenzie - FCI\n");
+  printf("Algoritmos e ");
+  printf("Prog II\n");
+  printf("Turma 02N11\n");
+  printf("Linguagem C\n");
+
+  return 0;
+  }
